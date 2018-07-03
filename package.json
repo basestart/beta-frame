@@ -1,0 +1,23 @@
+{
+  "name": "beta-frame",
+  "version": "1.0.0",
+  "description": "beta-frame command line to setup a react-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fridego/beta-frame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fridego/beta-frame/issues"
+  },
+  "bin": {
+    "beta-frame": "./bin/beta-frame.js"
+  },
+  "homepage": "https://github.com/fridego/beta-frame#readme"
+}
